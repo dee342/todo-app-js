@@ -1,5 +1,5 @@
 {
-  "name": "watch-and-learn",
+  "name": "todo-app-pure-js",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
